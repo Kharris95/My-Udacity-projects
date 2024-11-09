@@ -1,4 +1,5 @@
 # My-Udacity-projects
 work done in training to become a frontend-developer. Skills used are mainly CSS,JS and HTML. 
 
-- Firstly is a blog site with a blog page, the text is negligible. It was mainly to showcase flexbox and grid usage, minimal styling and mobile responsiveness. 
+Blog Post-
+A prototype of a web3 blog I will be eventually fleshing out properly. I was mainly practicing CSS design and responsive layout.
